@@ -5,6 +5,7 @@ setup(
     version="0.1.0",
     author="Ibtisam Asghar",
     author_email="ibtisamasghar71@gmail.com",
-    packages=find_packages(),
-    install_requires = []
+    packages=find_packages(), # Automatically finds all the Python packages (folders with __init__.py
+    install_requires = [],
+    description="Medical Chat Bot"
 )
