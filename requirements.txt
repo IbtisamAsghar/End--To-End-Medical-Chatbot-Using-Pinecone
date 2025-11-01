@@ -8,4 +8,5 @@ langchain-community == 0.3.26
 langchain-core
 python-dotenv == 1.1.0
 langchain-pinecone == 0.2.8
+rank_bm25
 -e.
